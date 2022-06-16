@@ -1,2 +1,4 @@
 # Lista-de-Tarefas
-  Contator em JavaScript.   Projeto em: BootCamp.DIO
+  Lista "to-do" em JavaScript.
+  
+  Projeto em: BootCamp.DIO
